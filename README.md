@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naveed02207/naveed02207/main/banner.png" width="100%" alt="GitHub Banner">
+</p>
+
+<br>
 # Hi, I'm Muhammad Naveed Ul Hassan 👋
 
 ### AI Engineer | Full Stack Developer | Machine Learning Enthusiast
